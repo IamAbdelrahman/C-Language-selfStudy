@@ -2,7 +2,7 @@
 ## Author: Paul Deitel. Harvey Deitel
 *Eighth Edition*
 
-- The reference is divided into 13 chapters that cover C-Language topics:
+- The reference is divided into 13 chapters that cover C-Language topics:-
 
 . Chapter 1 and 2 ⏩ Introduction
 . Chapter 3 ⏩ Structured Program Development in C
