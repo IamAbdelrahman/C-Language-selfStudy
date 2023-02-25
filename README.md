@@ -4,4 +4,3 @@
 
 ## Source 2 : HackerRank
 
-## Source 3 : C-for-EveryOne Coursera
